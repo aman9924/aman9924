@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aman9924
+- 👋 Hi, I’m Aman Thakur
 - 👀 I’m interested in to learn about new technologies and contribute to it.
 - 🌱 I’m currently learning Java,Web Development,Android Development.
 - 📫 How to reach me thakuraman989@gmail.com
